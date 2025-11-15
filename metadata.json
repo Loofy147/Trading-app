@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Trading Strategy Backtester",
+  "description": "An application that uses AI to analyze a user's trading strategy, then simulates a backtest against mock historical data and displays the performance results with visualizations.",
+  "requestFramePermissions": []
+}
